@@ -8,4 +8,4 @@ Chrome Multiple Manager
 
 4.https://github.com/lokkon/multChrome 老版本用的是tkinter，比较丑
 
-![image](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-imgbed/956386b5-a654-4e0e-a51c-d529138e1377.gif)
+![image](https://raw.githubusercontent.com/lokkon/multChrome_pyside2/main/ui/main.png)
